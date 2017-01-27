@@ -1,1 +1,6 @@
 bower_components/
+dist/
+node_modules/
+.tmp/
+.idea/
+coverage/
